@@ -10,5 +10,6 @@ This is secondary data, the dataset was goteen from [my file](laptop_prices_tomm
 - Data Visualisation
 
   ## Data Analysis
+  ![](DATA ANALYST CERT)
   
   
